@@ -19,8 +19,8 @@ terminal
 python password.py
 
 Example output:
-G7#mKpL!qX2&wRvZ
-The Strength of the Password is Very Secure, with a strength scale of 100%
+\nG7#mKpL!qX2&wRvZ
+\nThe Strength of the Password is Very Secure, with a strength scale of 100%
 
 🧠 How It Works
 Password Generation — CreatePassword(username)

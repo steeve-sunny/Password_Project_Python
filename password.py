@@ -61,5 +61,5 @@ def StrengthOfPassword(username):
 # The commented code are invokes which are tools to check the streght of a password or to create a password
 # uncomment the code below to use them.
 
-#(CreatePassword("Jamie")) # need to enter a username in order to create a password for a username
+#(CreatePassword()) # need to enter a username in order to create a password for a username
 #print(StrengthOfPassword()) # enter the username in order to get the strength of the password

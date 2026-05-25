@@ -57,3 +57,5 @@ Score  |   Grade             |   Percentage
   4. Conditional logic and percentage-based scoring
 
 
+👤 Author:
+Steeve Sunny — https://github.com/steeve-sunny · https://www.linkedin.com/in/steeve-sunny-261080393/

@@ -18,7 +18,7 @@ def CreatePassword(username):
 # we have to construct the strength of a particular password of a username
 def StrengthOfPassword(username):
     strength = 0
-    strength_storage =[]
+    strength_storage = []
     if username in login:
         password = login[username]
 

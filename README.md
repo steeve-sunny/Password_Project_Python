@@ -1,7 +1,7 @@
-🔐 Password Generator & Strength Grader
+Password Generator & Strength Grader
 A Python tool that generates secure passwords on request and grades their strength — built entirely with the Python standard library.
 
-📌 What It Does
+What It Does
 You provide a username. The tool does two things:
 
   1. Generates a unique 16-character password for that user, drawing from letters, digits, and special characters.
@@ -22,7 +22,7 @@ Example output:
 \nG7#mKpL!qX2&wRvZ
 \nThe Strength of the Password is Very Secure, with a strength scale of 100%
 
-🧠 How It Works
+How It Works
 Password Generation — CreatePassword(username)
 
   1. Builds a character pool from uppercase, lowercase, digits, and punctuation
@@ -49,7 +49,7 @@ Score  |   Grade             |   Percentage
 1/4    |   Not Secure        |   25%
 
 
-💡 Python Concepts Used:
+ Python Concepts Used:
 
   1. Recursion (duplicate password handling)
   2. Dictionaries and lists for in-memory storage
@@ -57,5 +57,5 @@ Score  |   Grade             |   Percentage
   4. Conditional logic and percentage-based scoring
 
 
-👤 Author:
+Author:
 Steeve Sunny — https://github.com/steeve-sunny · https://www.linkedin.com/in/steeve-sunny-261080393/
